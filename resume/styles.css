@@ -1,0 +1,105 @@
+html body{
+    background: #3D550C
+
+    ;
+}
+
+
+.resume{
+    background: #B2D2A4;
+    outline: black;
+    outline-style: groove;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 45px;
+    padding: 1% 6% 8% 6%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+     margin-left: 40px;
+     margin-right: 40px;
+}
+
+
+.text-bold{
+      font-weight:bold;
+}
+
+
+.name{
+    text-transform: uppercase;
+}
+
+
+.header{
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 60px;
+    margin-right:20%;
+    margin-left:20%;
+    border-top: 5px ridge #3D550C
+
+    ;
+    border-bottom: 5px ridge #3D550C
+
+    ;
+    border-radius:  60%;
+    background-color: #ECF87F
+
+    ;
+}
+  
+img{
+    width: 15%; 
+    height:auto;
+    margin-bottom: 15px;
+   
+    outline-style: inset;
+    outline-color: #3D550C
+
+    ;
+}
+
+.carousel{
+    width: 70%;
+    height: auto;
+    margin:0 auto 0 auto;
+}
+
+.main{
+      width: 60%;
+      align-items: center;
+      margin-left: auto;
+      margin-right: auto;
+}
+
+ 
+.description{
+    text-align: center;
+    margin-bottom: 25px;
+    outline-style: outset;
+    background-color: #ECF87F;
+    margin-top: 20px;
+}
+
+.pro{
+      
+      margin-bottom: 10px;
+}
+
+.meow{
+      border-top: 3px inset black;
+      border-bottom: 3px inset black;
+      padding-bottom: 5px;
+      padding-top: 5px;
+}
+
+  
+.sandwich{
+
+      border-bottom: 3px inset black;
+      padding-bottom: 5px;
+      padding-top: 5px;
+}
+  
+ 
+  
+  
